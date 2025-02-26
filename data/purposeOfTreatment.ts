@@ -1,0 +1,23 @@
+export const purposeOfTreatment = [
+  "Improve overall functional mobility and independence",
+  "Enhance safety awareness and execution during daily activities",
+  "Increase strength and endurance for functional tasks",
+  "Improve balance and coordination for fall prevention",
+  "Enhance ability to perform self-care activities",
+  "Improve pain management strategies and reduce pain levels",
+  "Enhance cognitive function and problem-solving skills",
+  "Improve sensory processing and integration",
+  "Enhance fine and gross motor skills",
+  "Improve posture and body mechanics",
+  "Enhance energy conservation techniques",
+  "Improve ability to navigate various environments",
+  "Enhance communication and social interaction skills",
+  "Improve respiratory function and management",
+  "Enhance ability to use adaptive equipment effectively",
+  "Improve joint mobility and flexibility",
+  "Enhance stress management and coping strategies",
+  "Improve sleep quality and patterns",
+  "Enhance ability to perform work or school-related tasks",
+  "Improve overall quality of life and well-being",
+]
+
